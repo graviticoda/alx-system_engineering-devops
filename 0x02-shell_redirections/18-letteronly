@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -n "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" /etc/ssh/sshd_config
