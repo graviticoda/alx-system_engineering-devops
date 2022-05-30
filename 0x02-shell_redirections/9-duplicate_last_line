@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -"$Lines1"f /tmp/iacta
+tail -10f iacta
