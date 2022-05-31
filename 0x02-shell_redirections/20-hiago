@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Church is chimming" | tr -d 'cC'
